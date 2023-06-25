@@ -1,0 +1,14 @@
+sno,name,client,domain,payroll cmp,working days,employees,salary,doj
+1,ab,cts, ,infosys,20,a1,750000,01-04-2002
+2,cd,genpact,adb,macro,,b1,850000, 
+3,ef,macro,citrixs,tech m,25,,,02-04-2004
+4, gf,cts,aws,,20,b2,1050000,06-06-2005
+5,dd.ds,,,delcom,22.5,a1,1500.44,03-03-2006
+6,,infocom,hcl,gh,23,b1, , 
+7,hj, .,synaps,infotech,23,c,850000,05-06-2008
+8,ik, NULL,plsql,hcl,24,d,95000.52, 
+9,ik,tcs,iics,tech m,21,x,1050000,01-09-1999
+10,mn,tata,kj,wipro,23,f,1150000,05-06-1996
+11,36,uni.a1,,macro,twenty,,15LPA,06-May-18
+12,8kp9p,infotech,django,gateway,26,,25000.055,07-May-18
+,,,,,,,,06-Jun-15
